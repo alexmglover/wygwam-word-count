@@ -1,0 +1,1 @@
+CKEDITOR.plugins.addExternal('wordcount', '/themes/third_party/wygwam_word_counts/wordcount/');
